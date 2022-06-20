@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\BaseDeDatos.2021\Entidades\obj\Debug\net5.0\Entidades.pdb

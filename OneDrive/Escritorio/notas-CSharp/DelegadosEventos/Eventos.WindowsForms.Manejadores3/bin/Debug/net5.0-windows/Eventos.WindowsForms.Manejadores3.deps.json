@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eventos.WindowsForms.Manejadores3/1.0.0": {
+        "runtime": {
+          "Eventos.WindowsForms.Manejadores3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eventos.WindowsForms.Manejadores3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

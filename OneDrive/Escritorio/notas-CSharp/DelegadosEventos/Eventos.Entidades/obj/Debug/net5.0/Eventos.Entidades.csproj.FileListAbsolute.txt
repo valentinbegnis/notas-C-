@@ -1,0 +1,12 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\ref\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\bin\Debug\net5.0\Eventos.Entidades.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\ref\Eventos.Entidades.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Eventos.Entidades\obj\Debug\net5.0\Eventos.Entidades.pdb

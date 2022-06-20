@@ -1,0 +1,16 @@
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.exe
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.deps.json
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.runtimeconfig.json
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\ref\Delegados.Predefinidos.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\bin\Debug\net5.0\Delegados.Predefinidos.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\ref\Delegados.Predefinidos.dll
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.pdb
+C:\Users\Maxi\source\repos\2022_NetCore5\DelegadosEventos\Delegados.Predefinidos\obj\Debug\net5.0\Delegados.Predefinidos.genruntimeconfig.cache
