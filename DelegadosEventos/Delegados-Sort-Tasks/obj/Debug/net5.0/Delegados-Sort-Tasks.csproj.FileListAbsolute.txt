@@ -1,0 +1,16 @@
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.exe
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.deps.json
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.runtimeconfig.json
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.runtimeconfig.dev.json
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.dll
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\ref\Delegados-Sort-Tasks.dll
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\bin\Debug\net5.0\Delegados-Sort-Tasks.pdb
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.csproj.AssemblyReference.cache
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.AssemblyInfoInputs.cache
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.AssemblyInfo.cs
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.dll
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\ref\Delegados-Sort-Tasks.dll
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.pdb
+C:\Users\begni\OneDrive\Escritorio\DelegadosEventos\Delegados-Sort-Tasks\obj\Debug\net5.0\Delegados-Sort-Tasks.genruntimeconfig.cache

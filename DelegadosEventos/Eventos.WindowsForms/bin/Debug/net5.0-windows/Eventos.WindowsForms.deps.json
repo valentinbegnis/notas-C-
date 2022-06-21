@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eventos.WindowsForms/1.0.0": {
+        "dependencies": {
+          "Eventos.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Eventos.WindowsForms.dll": {}
+        }
+      },
+      "Eventos.Entidades/1.0.0": {
+        "runtime": {
+          "Eventos.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eventos.WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eventos.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

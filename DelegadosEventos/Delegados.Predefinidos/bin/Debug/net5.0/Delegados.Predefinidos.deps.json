@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Delegados.Predefinidos/1.0.0": {
+        "runtime": {
+          "Delegados.Predefinidos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegados.Predefinidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
